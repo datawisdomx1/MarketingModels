@@ -1,5 +1,5 @@
 # MarketingModels
-AI ML DL models realted to marketing - churn, marketing mix, product attribution
+AI ML DL models related to marketing - product attribution, churn, marketing mix
 
 Product Attribution
 
